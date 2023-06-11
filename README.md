@@ -1,11 +1,11 @@
 ## Hi , I'm kunal 👋
 
-<p align="center"> 
+<p align="center">  
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kunal9027/count.svg" />
 </p>
 
-I’m currently learning about Opensource 📖
+I'm a developer that passionate about Learning in Public or Opensource 📖  
 
 ## Connect here 🌎: 
 - Learning in public on <a href="https://twitter.com/kunal9027">Twitter</a> 📹 ✍🏾
